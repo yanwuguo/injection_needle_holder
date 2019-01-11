@@ -5,5 +5,5 @@ The needle holder can be printed with 3D printer and hold up to 19 needles.
 ### Print the needle holder (STL file) and glue it in 15cm petri dish instead of using clay.
 please send me a email if you want to have one with customized pattern or have no access to 3D printer 
 
-![alt text](https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem2.JPG =350x)
-![alt text](https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem.JPG =350x)
+![alt text](https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem2.JPG | width=350x)
+![alt text](https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem.JPG | width=350x)
