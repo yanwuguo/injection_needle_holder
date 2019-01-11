@@ -4,3 +4,4 @@
 please send me a email if you want to have one with customized pattern or without access to 3D printer 
 
 ![alt text](https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem2.JPG)
+![alt text](https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem.JPG)
