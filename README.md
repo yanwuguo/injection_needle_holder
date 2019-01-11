@@ -7,7 +7,6 @@ Print the needle holder (STL file) and glue it in 15cm petri dish instead of usi
 <img src="https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem2.JPG" width="650">
 
 
-<img src="https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem.JPG" width="650">
 
 Please send me a email if you want to have one with customized pattern or have no access to 3D printer. 
 
