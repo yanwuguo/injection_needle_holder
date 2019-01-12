@@ -4,10 +4,6 @@ The needle made with needle puller has very fragile tip. It is important to keep
 The needle holder can be printed with 3D printer and hold up to 11 needles.
 Print the needle holder (STL file) and glue it in 15cm petri dish instead of using clay or tape.
 
-<img src="https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_assem2.JPG" width="650">
-
-
-
 
 <img src="https://github.com/yanwuguo/injection_needle_holder/blob/master/needle_holder_v02.jpg" width="650">
 
